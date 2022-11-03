@@ -1,0 +1,14 @@
+h1 {
+    font-weight: 800px;
+    text-align: center;
+}
+
+a {
+    font-weight: 1000px;
+    color: red;
+}
+
+img {
+    border-color: yellow;
+    border-radius: 20px;
+}
